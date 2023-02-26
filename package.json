@@ -1,0 +1,14 @@
+{
+  "name": "genealogical-maps",
+  "version": "1.0.0",
+  "description": "App to create genealocical maps",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Borja Sanz de Bremond O'Neill",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^23.0.0"
+  }
+}
