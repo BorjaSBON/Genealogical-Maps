@@ -1,6 +1,6 @@
 # Genealogical-Maps
 
-Application to create family trees in an easy and simple way, by means of blocks. Application to create family trees in an easy and simple way, by means of blocks. These blocks will collect relevant information about people, so that blocks and relationships will be generated directly without the need for the user to bother with the layout.
+Application created with Electron to build family trees in an easy and simple way, by means of blocks. Application to create family trees in an easy and simple way, by means of blocks. These blocks will collect relevant information about people, so that blocks and relationships will be generated directly without the need for the user to bother with the layout.
 
 ## Content
 
